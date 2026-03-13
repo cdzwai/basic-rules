@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![mesh-network](/img/mesh.jpg)
+![mesh-network](./mesh.jpg)
 
 </div>
 
